@@ -1,1 +1,4 @@
-bhavana
+bhavana  95    
+ram      85
+sita	 80
+aparna   75
